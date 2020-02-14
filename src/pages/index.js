@@ -12,9 +12,6 @@ const IndexPage = () => {
         I am Claudia, a freelance web developer living in beautiful Portland,
         OR.
       </h2>
-      <p>
-        Need a developer?<Link to="/contact">Contact me.</Link>
-      </p>
     </Layout>
   )
 }
